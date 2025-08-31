@@ -12,7 +12,7 @@ I believe this mindset is what helps transform raw data into valuable business o
 🛠️ Tools
 
 * Python
-* Numoy , Pandas, Matplotlib
+* Numpy , Pandas, Matplotlib
 * Jupyter Notebook
 
 
