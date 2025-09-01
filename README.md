@@ -26,7 +26,7 @@ I believe this mindset is what helps transform raw data into valuable business o
      1 -  Launch new flavours of these items and create combo deals to further boost sales.
      2 -  combo with these product may increase our sales.
 
-3. City-Wise Sales Performance
+2. City-Wise Sales Performance
 
    *Lisbon* and *London* are the top-performing cities with the highest sales.
    
